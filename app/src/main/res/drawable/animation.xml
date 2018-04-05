@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item android:drawable="@drawable/kakao"
+        android:duration="500"/>
+    <item android:drawable="@drawable/kakao1"
+        android:duration="500"/>
+    <item android:drawable="@drawable/kakao2"
+        android:duration="500"/>
+    <item android:drawable="@drawable/kakao3"
+        android:duration="500"/>
+    <item android:duration="500"
+        android:drawable="@drawable/tspy"/>
+
+
+
+</animation-list>
